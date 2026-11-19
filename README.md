@@ -1,6 +1,6 @@
 # Kingdom Inc Wiki
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)
 
 Open [the offline wiki](dist/index.html) in a browser. It works directly from disk; its fonts, artwork, code, and data are local. [The Markdown edition](markdown/README.md) contains a separate file for each article and source reference.
 
@@ -35,4 +35,4 @@ The visual theme uses the game's locally extracted logo, icons, factory grid, ro
 
 If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/urakkaamyx/tip)

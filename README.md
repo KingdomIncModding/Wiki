@@ -1,5 +1,7 @@
 # Kingdom Inc Wiki
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
+
 Open [the offline wiki](dist/index.html) in a browser. It works directly from disk; its fonts, artwork, code, and data are local. [The Markdown edition](markdown/README.md) contains a separate file for each article and source reference.
 
 The wiki documents the installed November 3, 2026 build, freshly decompiled with ILSpy. The assembly SHA-256 is recorded in `source-manifest.json` and the wiki's Coverage and provenance page. Original game binaries and saves were not modified.
@@ -28,3 +30,9 @@ The local, ignored `source/` folder and `data/localization.json` are required fo
 This is static documentation. Unity prefab settings, mods that patch behavior, and actual runtime results can differ. Source references, coverage and limitations are visible in the wiki. The Source audit collection distinguishes game code and bundled infrastructure.
 
 The visual theme uses the game's locally extracted logo, icons, factory grid, room art and fonts. Game artwork and third-party fonts remain credited to their respective creators. This is an independent reference.
+
+## Support
+
+If you enjoy these Kingdom Inc mods and tools, consider supporting development on Ko-fi!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6V62AX30M)
